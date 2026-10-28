@@ -1,5 +1,8 @@
 # QueueLess — Smart Queue & Appointment Management System
 
+🚀 **Live Deployment**: [https://queueless-flame.vercel.app](https://queueless-flame.vercel.app)  
+📦 **GitHub Repository**: [https://github.com/Mounish1808/QueueLess](https://github.com/Mounish1808/QueueLess)
+
 A complete, professional, interactive web application built for college offices, laboratories, libraries, examination branches, and student service counters.
 
 Designed specifically to demonstrate the concepts of the **Web Programming syllabus** for college practical examinations and academic submissions.
